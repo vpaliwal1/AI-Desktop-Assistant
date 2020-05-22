@@ -9,3 +9,5 @@ Functions:
 5. Show you the covid cases with covid tracker website.
 6. Sending email with the text you will tell him to type or send.
 7. Will search for your from wikipedia and tell you the first 3 sentences of your search.
+
+## It can be run in background and will work for you whenever you give any defined command or line.
